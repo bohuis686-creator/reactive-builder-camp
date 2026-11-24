@@ -2,4 +2,4 @@
 
 # Exercise log
 
-No exercises have been added yet.
+- [Online Session 2 | Technical Q&A notes](online-session-2.en.md)

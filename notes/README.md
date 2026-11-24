@@ -2,4 +2,4 @@
 
 # 练习记录
 
-目前暂无练习记录。
+- [Online Session 2｜技术 Q&A 笔记](online-session-2.md)
